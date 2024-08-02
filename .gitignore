@@ -1,1 +1,34 @@
+# macOS
 .DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Compiled source
+*.class
+*.o
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*.bak
+*.tmp
