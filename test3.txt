@@ -1,2 +1,6 @@
 bbb
+<<<<<<< HEAD
 main add xixixi
+=======
+hahaha
+>>>>>>> branch02
